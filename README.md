@@ -1,7 +1,6 @@
 # Health-Insurance-Prediction
 
-Here i'm providing an solution that can be used to predict insurance premium
-based on a person's personal history like bmi, no of children, smoker or not.
+Predict insurance premium based on a person's personal history like bmi, no of children, smoker or not.
 
 ## 📜 DataSet
 
